@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\onthi\onthi\bin\Debug\QLSECH.mdf
+C:\Users\ADMIN\source\repos\onthi\onthi\bin\Debug\QLSECH_log.ldf
+C:\Users\ADMIN\source\repos\onthi\onthi\bin\Debug\onthi.exe.config
+C:\Users\ADMIN\source\repos\onthi\onthi\bin\Debug\onthi.exe
+C:\Users\ADMIN\source\repos\onthi\onthi\bin\Debug\onthi.pdb
+C:\Users\ADMIN\source\repos\onthi\onthi\obj\Debug\onthi.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\onthi\onthi\obj\Debug\onthi.frm_quanlythuvien.resources
+C:\Users\ADMIN\source\repos\onthi\onthi\obj\Debug\onthi.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\onthi\onthi\obj\Debug\onthi.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\onthi\onthi\obj\Debug\onthi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\onthi\onthi\obj\Debug\onthi.exe
+C:\Users\ADMIN\source\repos\onthi\onthi\obj\Debug\onthi.pdb
+C:\Users\ADMIN\source\repos\onthi\onthi\obj\Debug\onthi.frm_nhapsach.resources
